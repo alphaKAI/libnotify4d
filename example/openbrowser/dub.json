@@ -1,0 +1,14 @@
+{
+	"name": "openbrowser",
+	"authors": [
+		"alphakai"
+	],
+	"description": "an example for libnotify4d",
+	"copyright": "Copyright © 2017, alphakai",
+	"license": "MIT",
+  "dependencies" : {
+    "libnotify4d": {
+      "path":"../../"
+    }
+  }
+}

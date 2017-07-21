@@ -1,0 +1,7 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"glib-d": "0.0.1",
+		"libnotify4d": {"path":"../../"}
+	}
+}
