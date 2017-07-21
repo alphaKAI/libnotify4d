@@ -1,5 +1,4 @@
-import libnotify4d.notify,
-       libnotify4d.notification;
+import libnotify4d;
 
 void main() {
   Notification notification = new Notification("Test notification", "body");
